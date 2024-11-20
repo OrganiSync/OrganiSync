@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">capstone</string>
+    <string name="title_home">Home</string>
+    <string name="title_news">News</string>
+    <string name="title_event">Event</string>
+    <string name="nama_event">Nama Event</string>
+    <string name="description">Desc</string>
+    <string name="title_front_dashboard">News</string>
+    <string name="title_front_notifications">Event</string>
+</resources>
